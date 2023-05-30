@@ -1,3 +1,7 @@
+# In order to play this game. Simply run this python file and make sure you have pygame installed.
+# If you want to install pygame. Then open your terminal and type pip install pygame.
+
+
 import pygame
 import random
 
